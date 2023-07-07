@@ -77,6 +77,15 @@ h1 {
   .carousel-inner h2{
     font-size: 23px;
   }
+  #mid p{
+    margin-bottom: 20px;
+    font-size: 19px;
+    color: yellow;
+  }
+  h1 {
+    font-family: 'Abril Fatface', serif;
+    font-size: 30px;  
+  }
  }
  @media (max-width:400px){
   .carousel-inner .item img{
@@ -84,6 +93,15 @@ h1 {
   }
   .carousel-inner h2{
     font-size: 17px;
+  }
+  #mid p{
+    margin-bottom: 20px;
+    font-size: 19px;
+    color: yellow;
+  }
+  h1 {
+    font-family: 'Abril Fatface', serif;
+    font-size: 30px;  
   }
   .navbar-brand{
     font-size: 10px;
@@ -100,10 +118,12 @@ h1 {
   color: white;
  }
  .footer{
+  font-size: 20px;
   background-color: rgba(29,167,179,0.5);
   text-align: center;
   margin-top: 100px;
   color: white;
+  /* height: 100px; */
  }
  
  /* @media (max-width:768px){
@@ -116,7 +136,7 @@ h1 {
  } */
  .logo{
   padding-bottom: 50px;
-  height: 70px;
+  height: 150px;
   width: 70px;
   margin: 0%;
   text-align: center;
