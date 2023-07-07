@@ -88,6 +88,14 @@ h1 {
   .navbar-brand{
     font-size: 12px;
   }
+  .navbar-header{
+    height: 50px;
+  }
+  
+  /* h1 {
+    font-family: 'Abril Fatface', serif;
+    font-size: 10px;  
+  } */
  }
  .col-md-4 h1{
   color: white;
@@ -117,6 +125,7 @@ h1 {
 .navbar-header{
   height: 70px;
 }
+
 
 
 
