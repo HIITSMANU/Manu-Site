@@ -86,7 +86,7 @@ h1 {
     font-size: 17px;
   }
   .navbar-brand{
-    font-size: 12px;
+    font-size: 10px;
   }
  
   
@@ -116,14 +116,14 @@ h1 {
  } */
  .logo{
   padding-bottom: 50px;
-  height: 100px;
-  width: 90px;
+  height: 70px;
+  width: 70px;
   margin: 0%;
   text-align: center;
 }
-.navbar-header{
+/* .navbar-header{
   height: 70px;
-}
+} */
 
 
 
@@ -173,7 +173,7 @@ h1 {
    color: #c0c0c0;
    border-left: 1px solid #132740;
    /* margin-left: 10px; */
-   margin: 10px;
+   /* margin: 10px; */
  }
  .navbar-custom .navbar-nav > li > a:hover,
  .navbar-custom .navbar-nav > li > a:focus {
