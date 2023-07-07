@@ -78,7 +78,7 @@ h1 {
     font-size: 23px;
   }
  }
- @media (max-width:400px){
+ @media (max-width:500px){
   .carousel-inner .item img{
     height: 200px;
   }
